@@ -16,51 +16,6 @@
 ## about me
 
 - **Languages & tools:** Python, Excel, Git, and Jupyter Notebook
-- **Currently exploring:** Memecoins
-
-## projects
-
-### 01 / S&P 500 Signal Research
-
-*A systematic trading strategy research project*
-
-A Python-based research project using historical SPY data to evaluate moving-average signals against a buy-and-hold benchmark.
-
-**What I'm exploring**
-- Moving-average trading signals
-- Historical backtesting and performance metrics
-- Out-of-sample strategy evaluation
-- Transaction costs and drawdown risk
-- Market regime analysis
-
-**Full-period backtest · 2015–2025**
-
-| Strategy | Total return | CAGR | Sharpe | Max drawdown |
-|:--|--:|--:|--:|--:|
-| Buy & hold | 299.74% | 13.43% | 0.81 | -33.72% |
-| 50-day MA | 113.15% | 7.13% | 0.71 | -20.26% |
-| 200-day MA | 188.68% | 10.12% | 0.90 | -19.81% |
-
-**Out-of-sample results · 2023–2025**
-
-| Strategy | Total return | CAGR | Sharpe | Max drawdown |
-|:--|--:|--:|--:|--:|
-| Buy & hold | 85.50% | 22.93% | 1.43 | -18.76% |
-| 200-day MA | 61.08% | 17.27% | 1.40 | -10.02% |
-
-*The out-of-sample period was evaluated separately from the 2015–2022 in-sample period.*
-
-**Key takeaway:** The 200-day moving-average strategy had lower historical maximum drawdowns than buy-and-hold in both periods, while buy-and-hold delivered higher total returns. The results illustrate the trade-off between return and downside risk.
-
-[→ Explore the repository](https://github.com/jane-disciullo/sp500-signal-research)
-
-### 02 / Trading & Market Research
-
-*Developing my understanding of price behavior and risk*
-
-I am interested in exploring trading ideas across traditional financial markets and crypto, with an emphasis on disciplined execution, risk management, and evaluating strategies through data.
-
-More research and projects coming soon.
 
 ## tools & technologies
 
@@ -75,27 +30,15 @@ More research and projects coming soon.
 
 </div>
 
-## github activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=jane-disciullo&show_icons=true&hide_border=true&bg_color=FAF7F4&title_color=8B7168&icon_color=B58C80&text_color=554A46" alt="Jane's GitHub statistics" />
+## github
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jane-disciullo&layout=compact&hide_border=true&bg_color=FAF7F4&title_color=8B7168&text_color=554A46" alt="Most-used programming languages" />
 
 </div>
 
-## connect
-
-I'm always interested in learning, sharing ideas, and connecting with people with similar interests.
-
-<div align="center">
-
 [![GitHub](https://img.shields.io/badge/GitHub-554A46?style=flat-square&logo=github&logoColor=FFFFFF)](https://github.com/jane-disciullo)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-EFE8E3?style=flat-square&logo=linkedin&logoColor=554A46)](https://www.linkedin.com/in/jane-disciullo-439282426/)
 
 <br/>
-
-*Thanks for reading!!*
 
 </div>
