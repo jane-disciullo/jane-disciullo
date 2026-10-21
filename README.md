@@ -5,19 +5,13 @@
 
 <br/>
 
-*"The Lord is my shepherd; I lack nothing." --Psalm 23:1* 
-
-[github](https://github.com/jane-disciullo) · [projects](#projects) · [connect](#connect)
+[github](https://github.com/jane-disciullo) · [projects](#projects)
 
 </div>
 
 ---
 
-## about me
-
-- **Languages & tools:** Python, Excel, Git, and Jupyter Notebook
-
-## tools & technologies
+- **Languages & tools:** Python, HTML
 
 <div align="center">
 
@@ -29,8 +23,6 @@
 ![Excel](https://img.shields.io/badge/Excel-EFE8E3?style=flat-square&logo=microsoftexcel&logoColor=554A46)
 
 </div>
-
-## github
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jane-disciullo&layout=compact&hide_border=true&bg_color=FAF7F4&title_color=8B7168&text_color=554A46" alt="Most-used programming languages" />
 
