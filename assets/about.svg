@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="About Jane">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0a0a1c"/>
+      <stop offset="1" stop-color="#120a2a"/>
+    </linearGradient>
+    <linearGradient id="hl" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#a78bfa"/>
+      <stop offset="0.5" stop-color="#f472b6"/>
+      <stop offset="1" stop-color="#fbbf24"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" fill="url(#bg)"/>
+
+  <!-- decorative signal wave -->
+  <path d="M0 150 C 100 90, 200 210, 300 150 S 500 90, 600 150 S 800 210, 900 150 S 1100 90, 1200 150" fill="none" stroke="url(#hl)" stroke-opacity="0.12" stroke-width="2"/>
+  <path d="M0 170 C 120 110, 220 230, 340 170 S 560 110, 680 170 S 900 230, 1020 170 S 1140 130, 1200 170" fill="none" stroke="url(#hl)" stroke-opacity="0.08" stroke-width="2"/>
+
+  <g font-family="'SF Mono','Fira Code',Consolas,'Courier New',monospace" font-size="13" fill="#a78bfa" letter-spacing="5">
+    <text x="72" y="62">ABOUT</text>
+  </g>
+
+  <g font-family="Georgia,'Times New Roman',serif" font-style="italic" font-size="56" fill="#ffffff">
+    <text x="68" y="140">I turn raw data</text>
+    <text x="68" y="206" fill="url(#hl)">into signal.</text>
+  </g>
+
+  <rect x="640" y="70" width="2" height="170" fill="url(#hl)" opacity="0.6"/>
+
+  <g font-family="'Helvetica Neue',Arial,sans-serif" font-size="19" fill="#e5e7eb" fill-opacity="0.85">
+    <text x="680" y="104">I build and backtest quantitative models,</text>
+    <text x="680" y="136">dig into the relationships hiding in data,</text>
+    <text x="680" y="168">and explore how AI can sharpen the</text>
+    <text x="680" y="200">decisions behind them.</text>
+  </g>
+  <g font-family="'SF Mono','Fira Code',Consolas,'Courier New',monospace" font-size="13" fill="#fbbf24" fill-opacity="0.9" letter-spacing="1">
+    <text x="680" y="244">Python  .  QuantConnect  .  WorldQuant U</text>
+  </g>
+</svg>

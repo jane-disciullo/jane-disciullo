@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 210" width="1200" height="210" role="img" aria-label="Always learning, always testing">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0a0a1c"/>
+      <stop offset="1" stop-color="#1a0b3a"/>
+    </linearGradient>
+    <linearGradient id="hl" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8b5cf6"/>
+      <stop offset="0.5" stop-color="#ec4899"/>
+      <stop offset="1" stop-color="#f59e0b"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="210" fill="url(#bg)"/>
+  <g transform="translate(0 50)">
+  <path d="M0 100 C 150 40, 300 160, 450 100 S 750 40, 900 100 S 1100 150, 1200 90" fill="none" stroke="url(#hl)" stroke-width="2.5" stroke-opacity="0.8" stroke-dasharray="14 10">
+    <animate attributeName="stroke-dashoffset" values="0;-48" dur="3s" repeatCount="indefinite"/>
+  </path>
+  <path d="M0 120 C 180 70, 330 170, 480 120 S 780 70, 930 120 S 1120 160, 1200 110" fill="none" stroke="url(#hl)" stroke-width="1.5" stroke-opacity="0.35"/>
+  </g>
+  <text x="600" y="56" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-style="italic" font-size="26" fill="#ffffff" fill-opacity="0.9">Always learning. Always testing.</text>
+</svg>

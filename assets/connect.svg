@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 200" width="1200" height="200" role="img" aria-label="Let's connect">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#140b2c"/>
+      <stop offset="1" stop-color="#0a0a1c"/>
+    </linearGradient>
+    <linearGradient id="hl" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#a78bfa"/>
+      <stop offset="0.5" stop-color="#f472b6"/>
+      <stop offset="1" stop-color="#fbbf24"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="200" fill="url(#bg)"/>
+  <g font-family="'SF Mono','Fira Code',Consolas,'Courier New',monospace" font-size="13" fill="#a78bfa" letter-spacing="5">
+    <text x="72" y="62">CONNECT</text>
+  </g>
+  <g font-family="Georgia,'Times New Roman',serif" font-style="italic" font-size="46" fill="#ffffff">
+    <text x="68" y="122">Let's build something <tspan fill="url(#hl)">together.</tspan></text>
+  </g>
+  <g font-family="'Helvetica Neue',Arial,sans-serif" font-size="17" fill="#e5e7eb" fill-opacity="0.75">
+    <text x="72" y="164">Open to talking data science, quant trading, and AI.</text>
+  </g>
+</svg>
