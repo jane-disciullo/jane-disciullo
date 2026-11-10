@@ -2,7 +2,7 @@
 
 <img src="assets/hero.svg" alt="Jane Disciullo - Data Science, Algorithmic Trading, AI" width="100%" />
 
-<img src="assets/about.svg" alt="I turn raw data into signal." width="100%" />
+<img src="assets/about.svg" alt="Using public data to my advantage." width="100%" />
 
 <img src="assets/skills.svg" alt="Skills: correlation analysis, linear and logistic regression, algorithmic trading, AI, social media marketing, customer service" width="100%" />
 
