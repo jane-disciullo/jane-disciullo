@@ -29,9 +29,9 @@
 
   <g font-family="'Helvetica Neue',Arial,sans-serif" font-size="19" fill="#e5e7eb" fill-opacity="0.85">
     <text x="680" y="104">I build and backtest quantitative models,</text>
-    <text x="680" y="136">dig into the relationships hiding in data,</text>
-    <text x="680" y="168">and explore how AI can sharpen the</text>
-    <text x="680" y="200">decisions behind them.</text>
+    <text x="680" y="136">determine probabilities,</text>
+    <text x="680" y="168">and explore how AI can assist my</text>
+    <text x="680" y="200">daily tasks and productivity.</text>
   </g>
   <g font-family="'SF Mono','Fira Code',Consolas,'Courier New',monospace" font-size="13" fill="#fbbf24" fill-opacity="0.9" letter-spacing="1">
     <text x="680" y="244">Python  .  QuantConnect  .  WorldQuant U</text>
