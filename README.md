@@ -16,6 +16,6 @@
 <a href="https://www.quantconnect.com/u/jane-disciullo_1"><img src="assets/btn-quantconnect.svg" alt="QuantConnect" height="56" /></a>
 <a href="https://github.com/jane-disciullo?tab=repositories"><img src="assets/btn-repos.svg" alt="GitHub repositories" height="56" /></a>
 
-<img src="assets/footer.svg" alt="Always learning. Always testing." width="100%" />
+<img src="assets/footer.svg" alt="Always open to learning more" width="100%" />
 
 </div>
