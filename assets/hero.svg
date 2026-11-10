@@ -110,7 +110,7 @@
   </rect>
 
   <text x="72" y="368" font-family="'SF Mono','Fira Code',Consolas,'Courier New',monospace" font-size="15" fill="#ffffff" fill-opacity="0.7" letter-spacing="2">
-    Turning noisy data into decisions.
+    Turning data into decisions as a noob
     <animate attributeName="opacity" values="0;1" dur="1.4s" begin="1s" fill="freeze"/>
   </text>
 </svg>
